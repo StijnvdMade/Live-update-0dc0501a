@@ -13,4 +13,4 @@ function printdate() {
     document.getElementById("datum").innerHTML = d;
 }
 
-var t = setInterval(printdate,1000);
+var time = setInterval(printdate,1000);
